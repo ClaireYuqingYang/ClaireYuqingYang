@@ -39,4 +39,4 @@ A browser-based experimental system for studying engagement with misinformation 
 
 ## Contact
 
-Email: your_email_here
+Email: yy5550@nyu.edu
