@@ -9,7 +9,7 @@ I am interested in how individuals interpret and engage with information in digi
 
 ## Methods and Tools
 
-* Statistical methods: mixed-effects models, causal inference, instrumental variables, difference-in-differences
+* Statistical methods: mixed-effects models, causal inference, nested models
 * Programming: R, Python, Stata
 * Experimental platforms: Qualtrics, oTree
 * Infrastructure: Render, PostgreSQL
@@ -18,7 +18,7 @@ I am interested in how individuals interpret and engage with information in digi
 
 * LLM vs. traditional methods for text classification
 * Agent-based simulations integrating large language models (on progress)
-*Survey Response Bias in Large-Scale Social Data
+* Survey Response Bias in Large-Scale Social Data
   
 ## Contact
 
